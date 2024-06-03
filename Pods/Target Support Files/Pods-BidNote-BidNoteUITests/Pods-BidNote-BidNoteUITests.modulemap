@@ -1,0 +1,6 @@
+framework module Pods_BidNote_BidNoteUITests {
+  umbrella header "Pods-BidNote-BidNoteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

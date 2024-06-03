@@ -1,0 +1,28 @@
+[debug] [2023-11-15T01:55:52.251Z] ----------------------------------------------------------------------
+[debug] [2023-11-15T01:55:52.252Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init functions
+[debug] [2023-11-15T01:55:52.253Z] CLI Version:   12.8.1
+[debug] [2023-11-15T01:55:52.253Z] Platform:      darwin
+[debug] [2023-11-15T01:55:52.253Z] Node Version:  v18.17.1
+[debug] [2023-11-15T01:55:52.258Z] Time:          Tue Nov 14 2023 17:55:52 GMT-0800 (Pacific Standard Time)
+[debug] [2023-11-15T01:55:52.258Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-15T01:55:52.262Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-15T01:55:52.262Z] > authorizing via signed-in user (bidnoteoperator@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/gavinwolfe/Desktop/bidNoteApp/BidNote/clouddata
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

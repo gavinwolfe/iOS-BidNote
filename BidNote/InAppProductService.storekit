@@ -1,0 +1,200 @@
+{
+  "identifier" : "6687C1C2",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6476527467",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 1 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier1tutoring",
+      "referenceName" : "tier1",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "6476528417",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 10 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier10tutoring",
+      "referenceName" : "tier10",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "12.99",
+      "familyShareable" : false,
+      "internalID" : "6476544466",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 13 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier13tutoring",
+      "referenceName" : "tier13",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "6476544579",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 15 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier15tutoring",
+      "referenceName" : "tier15",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6476528264",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 2 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier2tutoring",
+      "referenceName" : "tier2",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "6476544498",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 20 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier20tutoring",
+      "referenceName" : "tier20",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6476528267",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 3 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier3tutoring",
+      "referenceName" : "tier3",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6476528177",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 4 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier4tutoring",
+      "referenceName" : "tier4",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6476528292",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 5 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier5tutoring",
+      "referenceName" : "tier5",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "6476528216",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 6 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier6tutoring",
+      "referenceName" : "tier6",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "6476528168",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 7 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier7tutoring",
+      "referenceName" : "tier7",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "7.99",
+      "familyShareable" : false,
+      "internalID" : "6476528298",
+      "localizations" : [
+        {
+          "description" : "Specific educational course material-tutoring",
+          "displayName" : "Tier 8 Tutoring or Material",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tier8tutoring",
+      "referenceName" : "tier8",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1669999803",
+    "_developerTeamID" : "8WY239C4VN",
+    "_lastSynchronizedDate" : 727689032.26490295
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
